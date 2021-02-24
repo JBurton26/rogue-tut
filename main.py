@@ -7,8 +7,8 @@ from input_handlers import EventHandler
 from procgen import generate_dungeon
 
 def main() -> None:
-    screen_width = 100
-    screen_height = 70
+    screen_width = 160
+    screen_height = 90
     map_width = screen_width
     map_height = screen_height - 5
 
